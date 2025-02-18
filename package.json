@@ -1,0 +1,16 @@
+{
+  "name": "process-team-culture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.5",
+    "dotenv": "^16.4.7"
+  }
+}
